@@ -1,0 +1,23 @@
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "Trello",
+  "main": "index.js",
+  "author": "Cássio Almeida <cassio@gdsinformatica.com.br>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://trello.com",
+    "serviceName": "Trello",
+    "message": "Trello client",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
