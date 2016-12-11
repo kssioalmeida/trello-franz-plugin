@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Trello",
   "main": "index.js",
-  "author": "Cássio Almeida <cassio@gdsinformatica.com.br>",
+  "author": "Cássio Almeida <kssioalmeida@gmail.com>",
   "license": "MIT",
   "config": {
     "serviceURL": "https://trello.com",
